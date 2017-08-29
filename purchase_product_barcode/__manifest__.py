@@ -7,7 +7,7 @@
     'author': 'Quartile Limited',
     'website': 'https://www.odoo-asia.com',
     'category': 'Purchase',
-    'license': "LGPL-3",
+    'license': 'LGPL-3',
     'description': """
 Display barcode information of the products in the purchase order line
 on the form view and printed document of purchase order.
