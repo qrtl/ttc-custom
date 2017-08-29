@@ -12,4 +12,5 @@ class PurchaseOrderLine(models.Model):
         related='product_id.barcode',
         string='Barcode',
         copy=False,
+        readonly=True,
     )
